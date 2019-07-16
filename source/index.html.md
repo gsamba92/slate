@@ -172,7 +172,7 @@ This is a sample server Petstore server.  You can find out more about Swagger at
 
 ## ***DELETE*** 
 
-**Summary:** Deletes a pet
+**Summary:** Deletes a pet example
 
 **Description:** 
 
