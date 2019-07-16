@@ -35,7 +35,7 @@ This is a sample server Petstore server.  You can find out more about Swagger at
 # /PET
 ## ***POST*** 
 
-**Summary:** Add a new pet to the store
+**Summary:** Add a new pet to the store example
 
 **Description:** 
 
